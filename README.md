@@ -1,6 +1,6 @@
 # HelloWorld
 BlueAlien
-35 yeras old
+35 years old
 Swift developer
-Sketch designer
-in to sport cars
+Sketch 3 designer
+
